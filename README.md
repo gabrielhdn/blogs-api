@@ -8,7 +8,6 @@ O Blogs API √© um servidor back-end integrado ao banco de dados MySQL. A aplica√
 - Node.js
 - Express.js
 - MySQL
-- mysql2
 - Sequelize
 - JSON Web Token (JWT)
 - Joi
